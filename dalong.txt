@@ -1,9 +1,3 @@
 this is a demo app
 
-sdfsdf
-s
-df
-
-app demo 
-
-tong 
+app demo branch 
